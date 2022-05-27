@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## TODO APP INTRO
 
 i have build this app with Reactjs and bootstrap .it is basic react app to add list of todos
-you can add, update ,delete todos in this client side app
+you can add,delete todos in this client side app
 
 ## TOOLS USED
 
